@@ -45,7 +45,7 @@ div {
   font-size: 28px;
 }
 .container {
-  height: 20vh;
+
   max-width: 300px;
   display: flex;
   justify-content: space-between;
@@ -70,7 +70,6 @@ div {
   font-size: 16px;
 }
 .container {
-  height: 10vh;
   
   display: flex;
   justify-content: space-between;
