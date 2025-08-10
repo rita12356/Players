@@ -71,7 +71,7 @@ div {
 }
 .container {
   height: 10vh;
-  max-width: 320px;
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
