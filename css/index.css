@@ -7,7 +7,7 @@ body {
 
 .container {
   margin: 190px auto;
-  max-width: 600px;
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
